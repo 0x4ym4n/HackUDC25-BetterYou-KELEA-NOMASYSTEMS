@@ -4,10 +4,21 @@ Better You is a comprehensive Flutter-based mobile application designed to be yo
 
 ## 📱 Demo
 
-https://github.com/0x4ym4n/HackUDC25-BetterYou-KELEA-NOMASYSTEMS/assets/demo1.mp4
 
-https://github.com/0x4ym4n/HackUDC25-BetterYou-KELEA-NOMASYSTEMS/assets/demo2.mp4
-
+<div style="display: flex; justify-content: space-around; margin: 20px 0;">
+  <div style="flex: 1; margin-right: 10px;">
+    <video width="100%" controls>
+      <source src="https://github.com/0x4ym4n/HackUDC25-BetterYou-KELEA-NOMASYSTEMS/raw/refs/heads/master/assets/demo1.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+  <div style="flex: 1; margin-left: 10px;">
+    <video width="100%" controls>
+      <source src="https://github.com/0x4ym4n/HackUDC25-BetterYou-KELEA-NOMASYSTEMS/raw/refs/heads/master/assets/demo2.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+</div>
 ## 🌟 Features
 
 - **AI-Powered Coaching**: Personalized guidance and support for your wellbeing journey
