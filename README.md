@@ -2,6 +2,12 @@
 
 Better You is a comprehensive Flutter-based mobile application designed to be your personal AI wellbeing coach, helping you achieve your health and personal development goals through intelligent guidance and tracking.
 
+## 📱 Demo
+
+https://github.com/0x4ym4n/HackUDC25-BetterYou-KELEA-NOMASYSTEMS/assets/demo1.mp4
+
+https://github.com/0x4ym4n/HackUDC25-BetterYou-KELEA-NOMASYSTEMS/assets/demo2.mp4
+
 ## 🌟 Features
 
 - **AI-Powered Coaching**: Personalized guidance and support for your wellbeing journey
@@ -53,12 +59,15 @@ Better You is a comprehensive Flutter-based mobile application designed to be yo
 - Dart SDK
 - Android Studio / VS Code
 - iOS Simulator / Android Emulator (for mobile development)
+- Python 3.8+ (for server)
+- pip (Python package manager)
+
 
 ### Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/better_you.git
+git clone https://github.com/0x4ym4n/HackUDC25-BetterYou-KELEA-NOMASYSTEMS.git
 ```
 
 2. Navigate to project directory:
@@ -112,6 +121,25 @@ lib/
    LIVEKIT_URL=your_livekit_url
    LOCAL_DB_NAME=your_local_db_name
    ```
+
+### Server Setup
+
+1. Create and activate virtual environment:
+```bash
+python -m venv venv
+source venv/bin/activate  # On Unix/macOS
+.\venv\Scripts\activate   # On Windows
+```
+
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+3. Run the server:
+```bash
+uvicorn server:app --host 0.0.0.0 --port 8000 --reload
+```
 
 ## Security
 
