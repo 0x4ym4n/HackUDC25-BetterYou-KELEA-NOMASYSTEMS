@@ -5,6 +5,7 @@ Better You is a comprehensive Flutter-based mobile application designed to be yo
 ## 📱 Demo
 
 https://github.com/0x4ym4n/HackUDC25-BetterYou-KELEA-NOMASYSTEMS/raw/refs/heads/master/assets/demo1.mp4
+
 https://github.com/0x4ym4n/HackUDC25-BetterYou-KELEA-NOMASYSTEMS/raw/refs/heads/master/assets/demo2.mp4
 
 ## 🌟 Features
